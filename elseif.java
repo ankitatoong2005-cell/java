@@ -1,4 +1,4 @@
-public class Main {
+public class elseif {
     public static void main(String[] args) {
         // Variable declaration
         int marks = 60;
